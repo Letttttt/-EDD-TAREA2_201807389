@@ -1,9 +1,9 @@
-package main
+package simple
 
 type Node struct {
 	nombre    string
 	apellido  string
-	edad      int
+	edad      string
 	direccion string
 	carrera   string
 	curso     string
